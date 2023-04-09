@@ -1,14 +1,14 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Chintan Golakiya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Working as Software Engineer, Constant learning web development using NodeJs, ReactJs and other web technology... </h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Working as Software Engineer, Constant learning web development using NodeJs, ExpressJs, ReactJs, Java Spring Boot and other web technology... </h3>
 
 
 <!--
 **chintan-golakiya/chintan-golakiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on learning project - <a href="https://github.com/chintan-golakiya/online-exam-portal"> web application for online MCQ test usecase</a>
-- 🌱 I’m currently learning NodeJs, ReactJs and more...
-- :octocat: I’m looking to collaborate on project that use of web technology like NodeJs, Reactjs or programming languages Java, C++
+- 🔭 I’m currently working on learning project - <a href="https://github.com/chintan-golakiya/music-archive-backend">Music Archive Backend</a>
+- 🌱 I’m currently learning NodeJs, ExpressJs, ReactJs, Java Spring Boot and more...
+- :octocat: I’m looking to collaborate on project that use of web technology like NodeJs, ExpressJs, Reactjs, Spring Boot or programming languages Java, C++
 - 🚀 I’m always looking for good open source projects to contribute and to collaborate.  
 
 <div align="center">
@@ -34,6 +34,8 @@ Technologies I've been learning and using so far :
     [![JQUERY](http://img.shields.io/badge/-jQuery-eee?style=for-the-badge&logo=jquery&logoColor=E34F26)]()
 - Backend : <br />
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)]()
+    [![ExpressJs](https://img.shields.io/badge/-Express_Js-eee?style=for-the-badge&logo=expressjs&logoColor=red)]()
+    [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-eee?style=for-the-badge&logo=springboot&logoColor=red)]()
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=for-the-badge&logo=mongodb&logoColor=47A248)]()
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=for-the-badge&logo=mysql&logoColor=4479A1)]()
 - OS & IDE & Tools : <br />
@@ -41,7 +43,7 @@ Technologies I've been learning and using so far :
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=for-the-badge&logo=linux&logoColor=D67A10)]()
     [![Linux](http://img.shields.io/badge/-Windows-eee?style=for-the-badge&logo=windows&logoColor=blue)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=for-the-badge&logo=git&logoColor=F05032)]()
-    [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=for-the-badge&logo=heroku&logoColor=430098)]()
+    [![Docker](https://img.shields.io/badge/-Docker-eee?style=for-the-badge&logo=docker&logoColor=430098)]()
 
 <div align="center">
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
